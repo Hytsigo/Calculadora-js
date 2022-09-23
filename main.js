@@ -26,9 +26,6 @@ function init(){
   uno.onclick = function(e){
     resultado.textContent = resultado.textContent  + "1";
 }
-uno.keypress("num1") = function(e){
-    resultado.textContent = resultado.textContent  + "1";
-}
 dos.onclick = function(e){
     resultado.textContent = resultado.textContent  + "2";
 }
